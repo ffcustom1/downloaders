@@ -2,7 +2,7 @@
 
 # GitHub credentials (update with your actual username and token)
 GITHUB_USER="ffcustom1"
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="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"
 REPO_NAME="downloaders"
 BRANCH="main"
 
