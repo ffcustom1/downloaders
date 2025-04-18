@@ -1,1 +1,0 @@
-https://civitai.com/api/download/models/95559https://civitai.com/api/download/models/399662 | Error: 500 Server Error: Internal Server Error for url: https://civitai.com/api/download/models/95559https:/civitai.com/api/download/models/399662
